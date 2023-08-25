@@ -1,0 +1,12 @@
+Minor Project 1
+-------------
+Semester-5
+
+
+
+The repository is created to complete the task and share the work among the each team member.
+The project is being done in Java programming language.
+
+
+*************
+Thank you for visiting.
