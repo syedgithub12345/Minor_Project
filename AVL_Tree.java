@@ -105,7 +105,7 @@ class Main {
 		} 
 	} 
     
-    int [] ranArray2(int nums){
+    int [] ranArray(int nums){
         if(nums>30 || nums<0){
             System.out.println("\nInput out of bound");
             return null;
@@ -137,7 +137,7 @@ class Main {
 		    Main tree = new Main();
 		    System.out.println("\nNo. of inputs in the array:");
 		    int ranArrNum = sc.nextInt();
-		    int[] arr = tree.ranArray2(ranArrNum);
+		    int[] arr = tree.ranArray(ranArrNum);
 		    if(arr == null){
 		        ans = 1;
     		    System.out.println("\nCreate another tree:(1\\0)");
